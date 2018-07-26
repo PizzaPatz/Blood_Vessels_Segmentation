@@ -1,0 +1,83 @@
+ROC '01_test': 0.9671459130
+Test loss: 0.125126862867
+Test accuracy: 0.954370452904
+
+ROC '02_test': 0.9672320325
+Test loss: 0.125145131785
+Test accuracy: 0.954436455643
+
+ROC '03_test': 0.9658320148
+Test loss: 0.129473508161
+Test accuracy: 0.952633936102
+
+ROC '04_test': 0.9667973613
+Test loss: 0.125395916946
+Test accuracy: 0.954453123448
+
+ROC '05_test': 0.9663081016
+Test loss: 0.127007317884
+Test accuracy: 0.953921959211
+
+ROC '06_test': 0.9660199862
+Test loss: 0.127932977941
+Test accuracy: 0.953546216374
+
+ROC '07_test': 0.9664593486
+Test loss: 0.126167607497
+Test accuracy: 0.954108662946
+
+ROC '08_test': 0.9661917995
+Test loss: 0.126689697603
+Test accuracy: 0.953911485483
+
+ROC '09_test': 0.9664395438
+Test loss: 0.126568474202
+Test accuracy: 0.953985615079
+
+ROC '10_test': 0.9666585991
+Test loss: 0.125465935261
+Test accuracy: 0.954350065466
+
+ROC '11_test': 0.9664786568
+Test loss: 0.125426056385
+Test accuracy: 0.954408766656
+
+ROC '12_test': 0.9669649219
+Test loss: 0.125527131524
+Test accuracy: 0.954241623311
+
+ROC '13_test': 0.9666152727
+Test loss: 0.12624945334
+Test accuracy: 0.954084684243
+
+ROC '14_test': 0.9670679958
+Test loss: 0.124779132851
+Test accuracy: 0.954449276659
+
+ROC '15_test': 0.9666851918
+Test loss: 0.124676996148
+Test accuracy: 0.954576582454
+
+ROC '16_test': 0.9670665557
+Test loss: 0.125556396114
+Test accuracy: 0.954266973753
+
+ROC '17_test': 0.9662379775
+Test loss: 0.127294584191
+Test accuracy: 0.953662494743
+
+ROC '18_test': 0.9670260482
+Test loss: 0.125258586558
+Test accuracy: 0.954309691702
+
+ROC '19_test': 0.9673665935
+Test loss: 0.124100906092
+Test accuracy: 0.954879571483
+
+ROC '20_test': 0.9671209673
+Test loss: 0.124817660309
+Test accuracy: 0.954487989176
+
+===================================
+Average AUC ROC on 20 test dataset: 0.96668574407
+===================================
